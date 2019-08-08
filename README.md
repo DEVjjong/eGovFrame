@@ -21,8 +21,8 @@
 <br>
 
 ## :no_entry: 공유규칙
-> 1. 단순 기사, 기타 저작권법 위반 컨텐츠는 공유 금지!
-> 2. 불법소프트웨어 및 음란물 공유 금지!
+> 1. 컨텐츠 링크는 아래의 :card_index_dividers:**Awesome**을 이용해주세요.
+> 2. 단순 기사, 기타 저작권법 위반 컨텐츠, 불법소프트웨어 및 음란물 공유 금지!
 > 3. **유익하거나 (깊이있는 OR 정리잘된)** 글/영상/슬라이드/코드 공유!
 > 4. 어떤걸 가져올때는 **반드시!!** 출처를 표기!
 > 5. 저작권 조심 또 조심!!
@@ -41,7 +41,6 @@
 > SqlDeveloper 다운로드     : <br>
 > 이클립스 다운로드          : [다운로드](https://www.eclipse.org/downloads/packages/release/kepler)<br>
 > 전자정부프레임워크 다운로드 : [다운로드](https://www.egovframe.go.kr/EgovRunEnvReleaseNote.jsp?menu=3&submenu=1)<br>
-
 <br>
 <br>
 
@@ -52,4 +51,11 @@
 4. Database<br>
 5. jQuery<br>
 6. jsp / spring<br>
+<br>
+<br>
 
+
+## :card_index_dividers: Awesome
+> 컨텐츠 링크를 이곳에 추가해 주세요!
+<br>
+<br>
