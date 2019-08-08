@@ -39,7 +39,7 @@
 > Oracle DB 다운로드 (11g)       : [다운로드](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html)<br>
 > Oracle Client 다운로드 (11g)    : [다운로드](https://www.oracle.com/database/technologies/instant-client/downloads.html)<br>
 > SqlDeveloper 다운로드     : [다운로드](https://www.oracle.com/tools/downloads/sqldev-v192-downloads.html)<br>
-> 이클립스 다운로드          : [다운로드](https://www.eclipse.org/downloads/packages/release/kepler)<br>
+> 이클립스 다운로드(KEPLER)          : [다운로드](https://www.eclipse.org/downloads/packages/release/kepler)<br>
 > 전자정부프레임워크 다운로드 : [다운로드](https://www.egovframe.go.kr/EgovRunEnvReleaseNote.jsp?menu=3&submenu=1)<br>
 <br>
 <br>
