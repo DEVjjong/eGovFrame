@@ -1,9 +1,7 @@
 # :flags:  eGovFrame 전자정부프레임워크  
 <br>
-<br>
   
 ### :hatching_chick: 이 문서는 현재 계속 수정중입니다. 아직 완벽하지 않습니다. 참고하시기 바랍니다.
-<br>
 <br>
 
 ## :rabbit: 소개  
