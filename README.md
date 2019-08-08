@@ -67,7 +67,7 @@
 
 ● [프로그래머스](https://programmers.co.kr/) : 코딩테스트연습, 프로그래밍강의, 개발자채용에 관한 전반적인 통합사이트<br>
 ● [코사(KOSA)](https://career.sw.or.kr/) : 과학기술정보통신부 및 한국소프트웨어산업협회에서 운영하는 소프트웨어기술자 경력관리시스템<br>
-● [HTML5사이트통합진단](https://www.koreahtml5.kr/front/diagnosis/diagnosticUrl.do) : 홈페이지 URL과 파일 내 액티브X 사용여부, 웹 표준 준수여부 등을 진단할 수 있는 무료 서비스입니다.<br>
+● [HTML5사이트통합진단](https://www.koreahtml5.kr/front/diagnosis/diagnosticUrl.do) : 홈페이지 URL과 파일 내 액티브X 사용여부, 웹 표준 준수여부 등을 진단할 수 있는 무료 서비스<br>
 ● [웹페이지속도테스트](https://www.webpagetest.org/) : 웹사이트의 속도를 테스트할수 있습니다.
 ● [W3Schools](https://www.w3schools.com/) : 각종 프로그램 언어를 공부할수 있는 사이트
 
