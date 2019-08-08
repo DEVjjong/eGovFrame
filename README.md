@@ -70,4 +70,5 @@
 ● [HTML5사이트통합진단](https://www.koreahtml5.kr/front/diagnosis/diagnosticUrl.do) : 홈페이지 URL과 파일 내 액티브X 사용여부, 웹 표준 준수여부 등을 진단할 수 있는 무료 서비스<br>
 ● [웹페이지속도테스트](https://www.webpagetest.org/) : 웹사이트의 속도를 테스트할수 있습니다.<br>
 ● [W3Schools](https://www.w3schools.com/) : 각종 프로그램 언어를 공부할수 있는 사이트<br>
+● [원티드](https://www.wanted.co.kr) : 개발자에게 최적화된 취업통합포털사이트<br>
 
