@@ -25,10 +25,10 @@
 **여기서 설명하는 프로그램들은 버전에따라 다를수 있습니다.**
 
 
-> JDK 다운로드 (1.7)        : <br>
-> JDK 다운로드 (1.8)        : <br>
-> Oracle DB 다운로드        : <br>
-> Oracle Client 다운로드    : <br>
+> JDK 다운로드 (1.7_7u80)        : [다운로드](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)<br>
+> JDK 다운로드 (1.8_8u121)        : [다운로드](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html)<br>
+> Oracle DB 다운로드 (11g)       : [다운로드](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html)<br>
+> Oracle Client 다운로드 (11g)    : <br>
 > SqlDeveloper 다운로드     : <br>
 > 이클립스 다운로드          : [다운로드](https://www.eclipse.org/downloads/packages/release/kepler)<br>
 > 전자정부프레임워크 다운로드 : [다운로드](https://www.egovframe.go.kr/EgovRunEnvReleaseNote.jsp?menu=3&submenu=1)<br>
