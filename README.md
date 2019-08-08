@@ -33,12 +33,26 @@
 ## :herb: 프로그램은 미리 설치해주세요! 
 ### (꼭 아래프로그램일 필요는 없습니다. 하지만 버전이 맞으면 더 좋습니다!)
 **여기서 설명하는 프로그램들은 버전에따라 다를수 있습니다.**
+
+
 > JDK 다운로드 (1.7) : 
+
+
 > JDK 다운로드 (1.8) : 
+
+
 > Oracle DB 다운로드 : 
+
+
 > Oracle Client 다운로드 : 
+
+
 > SqlDeveloper 다운로드 : 
+
+
 > 이클립스 다운로드 : [다운로드](https://www.eclipse.org/downloads/packages/release/kepler)
+
+
 > 전자정부프레임워크 다운로드 : [다운로드](https://www.egovframe.go.kr/EgovRunEnvReleaseNote.jsp?menu=3&submenu=1)
 
 
