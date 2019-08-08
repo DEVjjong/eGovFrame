@@ -37,20 +37,22 @@
 > JDK 다운로드 (1.7_7u80)        : [다운로드](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-downloads-javase7-521261.html)<br>
 > JDK 다운로드 (1.8_8u121)        : [다운로드](https://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase8-2177648.html)<br>
 > Oracle DB 다운로드 (11g)       : [다운로드](https://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html)<br>
-> Oracle Client 다운로드 (11g)    : <br>
-> SqlDeveloper 다운로드     : <br>
+> Oracle Client 다운로드 (11g)    : [다운로드](https://www.oracle.com/database/technologies/instant-client/downloads.html)<br>
+> SqlDeveloper 다운로드     : [다운로드](https://www.oracle.com/tools/downloads/sqldev-v192-downloads.html)<br>
 > 이클립스 다운로드          : [다운로드](https://www.eclipse.org/downloads/packages/release/kepler)<br>
 > 전자정부프레임워크 다운로드 : [다운로드](https://www.egovframe.go.kr/EgovRunEnvReleaseNote.jsp?menu=3&submenu=1)<br>
 <br>
 <br>
 
-## :mag_right: 목차 (기본 큰틀은 이러하며 세세하게 분할될 수 있습니다)
+## :mag_right: 목차
 1. JAVA 기초<br>
 2. HTML / CSS기초<br>
 3. JAVA 고급<br>
 4. Database<br>
 5. jQuery<br>
 6. jsp / spring<br>
+7. 제안서 작성요령<br>
+8. 실무에 도움이 되는 글<br>
 <br>
 <br>
 
@@ -64,4 +66,8 @@
 > 아래의 유익한 저장소들을 방문해보세요! 도움이 되실거에요!<br>
 
 ● [프로그래머스](https://programmers.co.kr/) : 코딩테스트연습, 프로그래밍강의, 개발자채용에 관한 전반적인 통합사이트<br>
-● [코사(KOSA)](https://career.sw.or.kr/) : 과학기술정보통신부 및 한국소프트웨어산업협회에서 운영하는 소프트웨어기술자 경력관리시스템
+● [코사(KOSA)](https://career.sw.or.kr/) : 과학기술정보통신부 및 한국소프트웨어산업협회에서 운영하는 소프트웨어기술자 경력관리시스템<br>
+● [HTML5사이트통합진단](https://www.koreahtml5.kr/front/diagnosis/diagnosticUrl.do) : 홈페이지 URL과 파일 내 액티브X 사용여부, 웹 표준 준수여부 등을 진단할 수 있는 무료 서비스입니다.<br>
+● [웹페이지속도테스트](https://www.webpagetest.org/) : 웹사이트의 속도를 테스트할수 있습니다.
+● [W3Schools](https://www.w3schools.com/) : 각종 프로그램 언어를 공부할수 있는 사이트
+
