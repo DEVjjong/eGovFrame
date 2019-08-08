@@ -59,6 +59,7 @@
 
 ## :card_index_dividers: Awesome
 > 컨텐츠 링크를 이곳에 추가해 주세요!
+> 이곳에서 검증을 거친 후 아래의 **:earth_asia: Inspired By**로 이동합니다.
 <br>
 <br>
 
