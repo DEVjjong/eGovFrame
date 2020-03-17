@@ -50,9 +50,10 @@
 3. JAVA 고급<br>
 4. [Database](https://github.com/dlwlrma-xyz/eGovFrame/blob/master/DataBase.md)<br>
 5. jQuery<br>
-6. jsp / spring<br>
-7. 제안서 작성요령<br>
-8. 실무에 도움이 되는 글<br>
+6. JSP / Spring<br>
+7. SSL 인증서 발급 및 설치<br>
+8. 제안서 작성요령<br>
+9. 실무에 도움이 되는 글<br>
 <br>
 <br>
 
