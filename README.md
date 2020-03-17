@@ -45,13 +45,13 @@
 <br>
 
 ## :mag_right: 목차
-1. [JAVA 기초](https://github.com/dlwlrma-xyz/eGovFrame/blob/master/JAVA_%EA%B8%B0%EC%B4%88.md)<br>
-2. [HTML / CSS기초](https://github.com/dlwlrma-xyz/eGovFrame/blob/master/HTML_CSS_%EA%B8%B0%EC%B4%88.md)<br>
+1. [JAVA 기초](https://github.com/DEVjjong/eGovFrame/blob/master/JAVA_%EA%B8%B0%EC%B4%88.md)<br>
+2. [HTML / CSS기초](https://github.com/DEVjjong/eGovFrame/blob/master/HTML_CSS_%EA%B8%B0%EC%B4%88.md)<br>
 3. JAVA 고급<br>
-4. [Database](https://github.com/dlwlrma-xyz/eGovFrame/blob/master/DataBase.md)<br>
+4. [Database](https://github.com/DEVjjong/eGovFrame/blob/master/DataBase.md)<br>
 5. jQuery<br>
 6. JSP / Spring<br>
-7. SSL 인증서 발급 및 설치<br>
+7. [SSL 인증서 발급 및 설치](https://github.com/DEVjjong/eGovFrame/blob/master/SSL%EC%9D%B8%EC%A6%9D%EC%84%9C%20%EB%B0%9C%EA%B8%89%20%EB%B0%8F%20%EC%84%A4%EC%B9%98.md)<br>
 8. 제안서 작성요령<br>
 9. 실무에 도움이 되는 글<br>
 <br>
